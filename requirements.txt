@@ -4,7 +4,6 @@ einops
 transformers
 safetensors
 aiohttp
-accelerate
 pyyaml
 Pillow
 scipy

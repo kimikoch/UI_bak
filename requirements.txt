@@ -1,5 +1,6 @@
 torch
 torchsde
+torchvision
 einops
 transformers
 safetensors
